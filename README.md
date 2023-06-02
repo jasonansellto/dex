@@ -1,4 +1,4 @@
-# CURRENTLY PRELAUNCH BETA TESTING
-PULSE DEX
-Web: https://pulsedex.xyz/
+# CURRENTLY LIVE
+GET MONEY DEX
+Web: https://dex.getmoneytoken.xyz/
 
